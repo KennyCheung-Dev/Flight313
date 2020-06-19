@@ -13,8 +13,8 @@ Play in browser: https://kenny388.itch.io/flight313
 
 Team: 
 
-Kenny Cheung - Unity Programmer, Game Designer
-Venessa Jang - Story Writer
-Tony Yang - Story Writer
+Kenny Cheung - Unity Programmer, Game Designer <br/ >
+Venessa Jang - Story Writer<br/ >
+Tony Yang - Story Writer<br/ >
 Walter Wang - UI Designer
 
